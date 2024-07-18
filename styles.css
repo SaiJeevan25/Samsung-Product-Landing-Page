@@ -412,25 +412,22 @@ footer > ul > li{
 
 
 @media only screen and (max-width: 560px) {
-  .submit{
-    position: absolute;
-    max-width: 95px;
-    width: 100%;
-    margin-top: 235px;
-  } 
    .radio-div{
      margin-bottom: 15px;             
    } 
+  
    .footer-span{
      display: flex;
      justify-content: center;
      font-size: 0.9rem;
    }
+  
    footer > ul{
      display: flex;
      justify-content: center;
      font-size: 1rem;
    }
+  
   footer > ul >li{
     width: 9rem
   }
